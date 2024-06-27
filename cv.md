@@ -29,7 +29,7 @@ Write a function that will return the count of distinct case-insensitive alphabe
 
 ### Example
 
-```
+```javascript
 "abcde" -> 0 # no characters repeats more than once
 "aabbcde" -> 2 # 'a' and 'b'
 "aabBcde" -> 2 # 'a' occurs twice and 'b' twice (`b` and `B`)
@@ -41,7 +41,7 @@ Write a function that will return the count of distinct case-insensitive alphabe
 
 ### Solution
 
-```
+```javascript
 function duplicateCount(text){
 let count = 0;
   while (text) {
