@@ -11,3 +11,10 @@
 # About me
 
 I really enjoy learning JavaScript, HTML, CSS. It's very cool to learn something new all the time. I really want to learn how to work in a team. I pass tasks on <https://htmlacademy.ru/>, tried to learn on <https://strada.one/>. Learned Java Script at <https://learn.javascript.ru/>. I really like frontend development and I want to learn everything related to it very well.
+
+# Skills
+- HTML
+- CSS
+- JavaScript
+- Git
+- React basics
