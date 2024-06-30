@@ -54,3 +54,17 @@ function duplicateCount(text){
 }
 ```
 
+# Projects
+1. <https://github.com/balu1973/rsschool-cv> - My first project under <https://rs.school/>
+
+# Education
+
+1. <https://htmlacademy.ru>
+2. <https://strada.one>
+3. <https://learn.javascript.ru>
+4. <https://www.freecodecamp.org>
+
+# Languages
+
+1. English - google translate
+2. Russian - native
